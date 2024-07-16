@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\D411\Desktop\수강생411\임경민\Project0716\소스.cpp(209,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project0716.vcxproj -> C:\Users\D411\Desktop\수강생411\임경민\Project0716\x64\Debug\Project0716.exe
